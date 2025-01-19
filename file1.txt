@@ -1,4 +1,4 @@
 Tasks
-[] Create models  
+[/] Create models
 [] Create admin side for models  
 [] Prepare CRUD for models  
